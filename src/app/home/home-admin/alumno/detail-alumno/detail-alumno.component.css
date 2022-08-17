@@ -1,4 +1,8 @@
 .images{
-    width: 100px;
+    width: 60%;
     border-style: dashed;
 }
+h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
